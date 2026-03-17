@@ -1,17 +1,47 @@
-# Quartz v4
+# Exalted: A Era da Ascensão — Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Wiki de lore para a campanha de Exalted 2nd Edition "A Era da Ascensão".
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Acesse em: **https://gustavorodarte.github.io/exalted-wiki/**
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Stack
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- **Obsidian** — editor de notas em Markdown com wiki-links e grafo visual
+- **Quartz 4** — gerador de site estático que renderiza o vault do Obsidian (grafo, backlinks, busca)
+- **GitHub Pages** — hospedagem gratuita, deploy automático via GitHub Actions
 
-## Sponsors
+## Estrutura do conteúdo
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+```
+content/
+├── World/
+│   ├── People/        ← NPCs, facções, deuses, criaturas
+│   ├── Locations/     ← Vilas, geografia, mapas
+│   ├── History/       ← Textos fonte (cartas, narrativas, capítulos)
+│   └── Items/         ← Artefatos
+├── Campaigns/
+│   ├── Era da Ascensão/Characters/   ← PCs, prelúdios, interlúdios
+│   └── Sessions/                     ← Notas de sessão
+└── Attachments/       ← Imagens (portraits, mapas, sessões)
+```
+
+## Workflow
+
+1. Escreva lore no Obsidian (interlúdios, diários, cartas)
+2. Sincronize para o Quartz: `./sync-vault.sh`
+3. Commit e push — o deploy é automático
+
+## Desenvolvimento local
+
+```bash
+npm i
+npx quartz build --serve   # preview em localhost:8080
+```
+
+## Sync do vault
+
+O script `sync-vault.sh` copia o conteúdo do vault Obsidian para `content/`, excluindo arquivos internos (.obsidian, Inbox, Templates).
+
+```bash
+./sync-vault.sh
+```
