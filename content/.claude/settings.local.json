@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(BASE=\"/Users/gustavorodarte/Documents/Exalted/Exalted: A era da Ascensão\"\nmv \"$BASE/Untitled 1.canvas\" \"$BASE/Untitled.canvas\" \"$BASE/Attachments/Other/\" 2>/dev/null\necho \"Canvas files moved\")"
+    ]
+  },
+  "sandbox": {
+    "enabled": true,
+    "autoAllowBashIfSandboxed": true
+  }
+}

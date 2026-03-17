@@ -1,0 +1,2 @@
+Uma Grande Caverna de Cristais que foi encontrada no território da Vila. 
+Apesar da grande riqueza que poderiam adquirir, extraindo e comercializando estes cristais, a tribo optou por usa-la como um templo para meditação e para oferecer preces aos deuses, principalmente o deus do Nutrir.

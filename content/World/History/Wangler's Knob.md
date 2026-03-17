@@ -1,0 +1,19 @@
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases: []
+---
+
+No centro da cidade de tendas encontra-se o Wangler's Knob, uma colina em forma de cume que serve como o coração pulsante da vila. A vila propriamente dita começa com casas estreitas de madeira e pedra espalhadas ao redor da base dessa colina peculiar e se estende até o topo, onde se ergue um majestoso templo de três pináculos, que parece tocar o céu. Com uma população de aproximadamente 7.000 habitantes, Wangler's Knob é um lugar vibrante, onde a vida pulsa em cada esquina, misturando tradições antigas com o dinamismo de uma comunidade próspera.
+
+A colina é dividida em três distritos distintos, embora as fronteiras entre eles sejam, por vezes, difusas, como se a própria vila resistisse a divisões rígidas: o Distrito dos Fazendeiros, o Distrito dos Artesãos e o Distrito do Prefeito. Cada um desses distritos tem sua própria personalidade, oferecendo atrações únicas para os visitantes e moradores que percorrem suas ruas sinuosas.
+
+**Distrito dos Fazendeiros**: Localizado na base da colina, este distrito é o mais próximo da terra, tanto literal quanto figurativamente. Aqui, as casas de madeira rústica e pedra bruta se misturam com pequenos celeiros e hortas bem cuidadas. O aroma de pão recém-assado e feno cortado permeia o ar, enquanto carroças carregadas de produtos frescos, como abóboras, milho e maçãs, cruzam as ruas de terra batida. Os fazendeiros, com suas mãos calejadas e sorrisos calorosos, são o coração da vila, fornecendo alimentos que sustentam os 7.000 moradores. Feiras semanais trazem vida ao distrito, com barracas coloridas oferecendo queijos artesanais, mel puro e sidra caseira. Para aventureiros, há rumores de trilhas escondidas que levam a pomares antigos, guardados por entidades misteriosas.
+
+**Distrito dos Artesãos**: Subindo um pouco a colina, o Distrito dos Artesãos é um mosaico de oficinas e forjas, onde o som de martelos contra o metal e o zumbido de teares ecoam dia e noite. Este é o lar dos ferreiros, tecelões, carpinteiros e joalheiros, cujas criações são conhecidas muito além das fronteiras de Wangler's Knob. As ruas aqui são um pouco mais estreitas, ladeadas por casas com fachadas decoradas com entalhes intricados e vitrines exibindo mercadorias reluzentes. Um aventureiro pode encontrar desde espadas forjadas com técnicas ancestrais até tapeçarias que contam lendas esquecidas. O distrito também abriga uma taverna famosa, a "Bigorna Dourada", onde artesãos e viajantes compartilham histórias à luz de velas, regadas a cerveja forte.
+
+**Distrito do Prefeito**: No topo da colina, coroado pelo templo de três pináculos, está o Distrito do Prefeito, o centro político e espiritual da vila. As construções aqui são mais imponentes, com casas de pedra polida e detalhes em vitrais que brilham sob o sol. O templo, uma obra-prima arquitetônica, é dedicado a uma divindade local, e seus pináculos são visíveis de qualquer ponto da vila, servindo como um lembrete constante da união da comunidade. A mansão do prefeito, com seus jardins bem cuidados, é o ponto de encontro para decisões que moldam o destino dos 7.000 habitantes. Este distrito atrai estudiosos, clérigos e diplomatas, mas também esconde segredos: dizem que passagens subterrâneas sob o templo guardam relíquias antigas e mistérios que desafiam até os mais bravos aventureiros.
+
+Wangler's Knob, com sua população de 7.000 almas, é mais do que uma vila; é um microcosmo de ambição, trabalho e mistério. Cada distrito oferece algo único, desde os sabores terrosos do Distrito dos Fazendeiros até a grandiosidade espiritual do Distrito do Prefeito, tornando a vila um destino inesquecível para qualquer personagem em busca de aventura, conhecimento ou simplesmente um lugar para chamar de lar.

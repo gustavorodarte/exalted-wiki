@@ -1,0 +1,5 @@
+---
+Tags: []
+Created: 2024-04-08T18:10:00
+---
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/42e95c01-0b2a-46b1-bb72-fa6e009d92cb/dxib6w-56937b95-5e0a-49c2-b350-5e29d4ec248a.jpg/v1/fit/w_789,h_1200,q_70,strp/exalted___issue_2_powerfoil_by_udoncrew_dxib6w-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzQyZTk1YzAxLTBiMmEtNDZiMS1iYjcyLWZhNmUwMDlkOTJjYlwvZHhpYjZ3LTU2OTM3Yjk1LTVlMGEtNDljMi1iMzUwLTVlMjlkNGVjMjQ4YS5qcGciLCJ3aWR0aCI6Ijw9Nzg5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.o0iN4Pr3io3BBWxh8-60YJB6T4YSFAtPIqQ-smqLhCg)

@@ -1,0 +1,4 @@
+Angendy ( Anguendí ) significa “Sabedoria da Luz interior”.
+Houveram várias solicitações aos Mediadores sobre o fato de que era incômodo que se referissem a eles por esta característica, inclusive por que a maior ainda não se sentia bem com essa novidade. Os mediadores organizaram algumas reuniões e destas reuniões, em que os Angendy estavam presentes, surgiu a ideia de se referissem a eles pela característica física, mas pelo seu potencial.
+
+Assim como há na tribo nomes para os guerreiros, os artesãos, os curandeiros, e todas as outras funções, então se criou o nome para esta função também. O nome foi escolhido pelos próprios Angendy dentro das palavras da cultura do Ciclo.

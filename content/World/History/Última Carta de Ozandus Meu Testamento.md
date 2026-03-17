@@ -1,0 +1,29 @@
+---
+tags:
+  - type/source
+  - source-format/letter
+  - campaign/ascensao
+  - era/first-age
+aliases: []
+---
+
+Minha amada Mithra,
+
+Escrevo-te estas palavras derradeiras com o coração dilacerado, envolto no silêncio sepulcral da Retirada Final, o último eco de uma fortaleza que nasceu da esperança e se tornou nossa danação eterna. Eu, [[Ozandus Pal|Ozandus]] Pal, o escultor que um dia sonhou em eternizar a beleza em pedra, agora me vejo reduzido a um espectro de mim mesmo, preso entre as ruínas de uma verdade que devora a alma. Esta carta é meu testamento final, gravado na esperança vã de que, por algum milagre dos céus ou das sombras, estas linhas cheguem até ti, minha luz eterna, antes que o vazio me reivindique por completo.
+
+Chegamos aqui, eu e os outros Solares, guiados pelo Mestre Kal Bax, acreditando que este manse — o Forte Invisível — seria nosso refúgio supremo contra a fúria da Usurpação que devastava o sul. Bax o construiu com maestria incomparável, um prodígio de Essência e ilusão, invisível até para o Tear do Destino, um exílio voluntário onde pensávamos reerguer-nos como deuses. Mas, oh, Mithra, como fomos tolos! Este forte não é um santuário; é uma prisão autoimposta, uma teia de segredos e armadilhas que espelham a decadência de nossas almas. Seus corredores ecoam com sussurros fantasmagóricos, e as runas que eu mesmo esculpi nas paredes agora me atormentam, revelando fragmentos de uma traição que eu mal podia conceber. O vento gelado do norte infiltra-se pelas frestas, carregando o lamento dos Yozi, como se eles rissem de nossa hybris.
+
+A verdade que descobri, após quase um milênio revivendo os mistérios deste lugar através de visões e gravuras que eu mesmo criei, é uma lâmina que corta mais fundo que qualquer arma. Meu mestre, Kal Bax — o homem que admirei como um pai, o arquiteto de maravilhas — foi o artífice do maior crime contra nossa própria essência. Ele forjou a Prisão de Jade, um artefato amaldiçoado inspirado nos segredos de Oramus, o Yozi da Impossibilidade, extraídos de um lugar chamado Beyond, além dos confins da Criação. Bax, consumido por uma visão distorcida de equilíbrio, criou essa prisão para selar os Solares traidores, traindo o Mandato dos Céus que nos exaltou. Ele a escondeu em um manse submerso no Inland Sea, próximo a Thorns, um lugar de águas negras e essências corrompidas, onde o artefato ainda pulsa com uma energia que devora memórias e almas.
+
+Mas a traição não para aí, Mithra. No cerne dessa danação, há um triângulo de amor e engano que envenenou tudo. Larquen Quen, meu companheiro de exílio, era apaixonado por uma mulher conhecida como Green Lady — uma Sidereal do Segredo, bela e etérea como uma ilusão, mas com um coração de sombras. Eles eram amantes, ou assim Larquen acreditava, unidos em um laço que parecia desafiar o caos ao nosso redor. No entanto, Green Lady o usava como uma ferramenta, uma ponte para se aproximar de Bax. Seu verdadeiro objetivo era cooptar meu mestre para os planos da Usurpação, infiltrando-se em nossas confidências com sussurros e promessas veladas. Foi ela quem roubou os projetos da Prisão de Jade de Bax, durante noites de conversas secretas neste mesmo forte, onde o ar carregado de Essência disfarçava sua duplicidade. Green Lady veio aqui sozinha, sem exército, armada apenas com uma Arte Marcial que emulava o anima de um Night(PRISMATIC ARRANGEMENT OF CREATION STYLE), profanando os túmulos de Bax e Larquen, e selando o destino deste lugar com sua heresia.
+
+Larquen nunca soube da verdade. Cego pelo ciúme, ele viu apenas o afeto aparente entre Green Lady e Bax — um afeto que era mera encenação dela para extrair os segredos. Enlouquecido pela inveja, Larquen confrontou Bax em uma das câmaras ocultas do forte, ativando um artefato sombrio que não só matou meu mestre, mas corroeu sua alma e apagou suas memórias, condenando-o a um vazio eterno no Underworld. Com a morte de Bax, o forte começou a se desfazer, como se sua Essência fosse o que o mantinha coeso. 
+Eu, Ozandus, o último a sobreviver, passei séculos revivendo esses horrores através das gravuras que esculpi nas paredes do forte — duzentas estátuas com teu rosto, Mithra, cada uma um grito silencioso de amor e desespero, mas também um mapa codificado para essa verdade amaldiçoada. Descobri tudo: a Prisão de Jade, defeituosa e trágica, que corrompeu almas além do imaginável; o triângulo que destruiu nossos laços; a aliança profana de Bax com segredos além da Criação. A revelação me consumiu como fogo. O homem que admirei como um deus traiu-nos todos, vendendo nossa essência por uma ilusão de ordem. Como pude idolatrar um traidor? A loucura me invadiu, e este forte, outrora invisível, tornou-se um espelho de minha mente fragmentada — armadilhas que eu ajudei a construir, agora símbolos de nossa queda.
+
+Os outros caíram antes: Crinis desapareceu em busca de respostas que nunca encontrou; Aurs Orchestr apagou sua própria luz, enlouquecido pelo isolamento eterno. Nossos debates viraram veneno, e o ódio substituiu o que restava de nossa glória. Eu resisti, investigando como um fantasma, mas fui um covarde ao te abandonar, Mithra. Escolhi este exílio em vez de lutar ao teu lado, na ilusão de que protegeria segredos que agora me devoram. Agora, decidi que morrerei aqui, na Retirada Final, guardando essa verdade amaldiçoada. Talvez os Neverborn riam de nós, ou talvez os Yozi, que inspiraram essa heresia, esperem por nossa queda final.
+
+Se estas palavras te alcançarem, perdoa-me, minha amada. Perdoa o homem que te amou além da razão, mas falhou em ser digno. Que o Sol e a Lua te guiem, e que um dia possas lembrar de mim não como o guardião de uma traição, mas como o escultor que eternizou teu rosto na pedra fria deste túmulo. Meu coração é teu, agora e para sempre, mesmo no vazio que me espera.
+
+Com lágrimas que secaram há séculos,
+
+Ozandus Pal
