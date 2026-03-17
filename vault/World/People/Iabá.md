@@ -7,7 +7,7 @@ aliases: []
 
 # Iabá
 
-Iabá foi um prodígio nascido na [[Vila do Ciclo Infinito]] com um terceiro olho na testa, capaz de ver o imaterial. Foi ele quem revelou à tribo o protocolo de fabricação de artefatos de IronWood — um homem formidável e respeitado.
+Iabá foi um prodígio nascido na [[Vila do Ciclo Infinito]] com um terceiro olho na testa, capaz de ver o imaterial. Foi ele quem revelou à tribo o protocolo de fabricação de artefatos de SpiritWood — um homem formidável e respeitado.
 
 ## Queda
 
