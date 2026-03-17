@@ -1,3 +1,12 @@
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases:
+  - Interlúdios de Amaterasu
+---
+
 **Prelúdio e Interlúdios – Amaterasu**
 
   
@@ -31,11 +40,7 @@ Lista de filhos de Amaterasu e Tlaloc
 Interlúdio anos 674 – 680
 
   
-
   
-
-  
-
 **Introdução**
 
   

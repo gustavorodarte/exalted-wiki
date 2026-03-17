@@ -47,6 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
       },
       globalGraph: {
         showTags: false,
+        repelForce: 1,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),

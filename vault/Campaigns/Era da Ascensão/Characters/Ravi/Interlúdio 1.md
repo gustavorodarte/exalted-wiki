@@ -1,3 +1,11 @@
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases:
+  - Interlúdio 1 de Ravi
+---
 
 A chegada em Snakepoint foi tranquila, relativamente discreta também. Preferiram não fazer alardes, não estavam com roupas chamativas e foram direto para o campo. O destino era uma fazenda nas proximidades da cidade, Recanto do Sol.
 

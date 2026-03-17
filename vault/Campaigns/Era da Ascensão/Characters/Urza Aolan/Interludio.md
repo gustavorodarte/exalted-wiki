@@ -1,3 +1,12 @@
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases:
+  - Interlúdio de Urza Aolan
+---
+
 **
 
 Ano de 670, eu planejo fazer isso basicamente o Ano todo.

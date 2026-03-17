@@ -32,3 +32,17 @@ As células têm muitos nomes para adaptar-se à cultura local: Filhos do Sol, S
 
 - **São Vax** — O profeta original que visualizou a religião.
 - **São Shen Aru** — O santo que moldou o culto e foi iluminado por ele.
+
+## Eventos dos Interlúdios (RY 667–674)
+
+Durante os interlúdios, o culto se expandiu significativamente sob a liderança de [[Ravi]]. Tudo começou com um pequeno altar na fazenda [[Recanto do Sol]], nos arredores de [[Snake Point]], e cresceu através de trabalho missionário, serviços de exorcismo e festivais.
+
+**Marcos importantes:**
+- **Tormento dos Iluminados (671)** — Incidente violento em Snake Point que resultou no banimento do culto da cidade. Ver [[Tormento dos Iluminados]].
+- **Expansão missionária** — Missionários espalharam a fé por toda a região das Terras Altas de Zarlath.
+- **Festival das Chamas Eternas** — Celebração anual que se tornou tradição e ajudou a manter a presença do culto mesmo após o banimento.
+- **Templos em Yamato e Malamet** — Construídos com o patrocínio de [[Cuotemoc|Cuauhtemoc]].
+- **Mosteiro, orfanato e dojo** — Instituições criadas para formar novos seguidores e abrigar necessitados.
+- **Milícia** — Treinada por [[Naezra]], formou um grupo competente de artistas marciais.
+
+Ao final do ano 674, o culto possuía Alcance 3, Influência 4, Riqueza 3, Soberania 4 e Militar 2.

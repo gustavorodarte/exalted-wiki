@@ -1,4 +1,11 @@
-
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases:
+  - Interlúdio 2 de Sayri
+---
 
 # Ano 668, Estação da madeira : Impedimento em ver as abelhas e Reunião das Vilas em Yamato
 

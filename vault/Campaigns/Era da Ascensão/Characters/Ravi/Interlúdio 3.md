@@ -1,3 +1,12 @@
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases:
+  - Interlúdio 3 de Ravi
+---
+
 ### **Child of Light and Darkness**
 
 O templo estava silencioso, exceto pelo som de um pássaro solitário que cantava no alto das colunas. Ravi, sentado em sua sala de meditação, estava envolto em pensamentos sobre sua jornada como um escolhido do **Unconquered Sun**. Mas então, uma mensagem chegou, misteriosa como a neblina que frequentemente cercava sua vida desde que se tornara parte do Culto dos Iluminados.

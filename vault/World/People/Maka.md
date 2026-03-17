@@ -23,3 +23,9 @@ Maka é uma curandeira excepcional, capaz de diagnosticar e tratar ferimentos gr
 - Conhecia [[Cuotemoc]], que escreveu uma carta de apresentação para o grupo
 - Prometeu manter contato com [[Ubiraci]] via "dente-de-leão correio"
 - Alertou o grupo sobre o livro Grou da Asa-Quebrada e o possível destino de Ubiraci
+
+## Eventos dos Interlúdios
+
+No interlúdio de [[Sayri Ficha|Sayri]], Maka serviu como mentora e âncora emocional. Sayri visitava as cachoeiras próximas à caverna de Maka para buscar conselho em momentos de confusão — especialmente sobre as supostas origens demoníacas dos [[The Kin|Kin]] e a saudade que sentia dos amigos exaltados.
+
+Maka ofereceu palavras de sabedoria sobre encontrar o próprio caminho apesar dos obstáculos, comparando-o às cachoeiras que sempre encontram seu trajeto, não importa a rocha que se coloque à frente.

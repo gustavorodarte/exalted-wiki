@@ -1,3 +1,11 @@
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases:
+  - Interlúdio 2 de Ravi
+---
 
 RY 670
 

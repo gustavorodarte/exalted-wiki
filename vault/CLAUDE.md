@@ -61,6 +61,16 @@ aliases:
 - If a session note contains lore, extract the lore into separate notes and link back from the session
 - Preserve the original narrative voice — don't rewrite prose, just reorganize it
 
+## Index-Driven Linking (MANDATORY)
+
+Before extracting or linking any new text, you **MUST** read `_INDEX.md`. Only create `[[wiki-links]]` for entities that exist in this index. If an entity does not exist, extract it into a new atomic note first and then add it to `_INDEX.md` by re-running:
+
+```bash
+python3 scripts/generate_index.py
+```
+
+This ensures every link in the vault resolves to a real note and the index stays current.
+
 ## Key Conventions
 
 - Use Obsidian `[[wiki-links]]` for all cross-references

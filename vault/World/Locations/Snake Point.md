@@ -12,3 +12,9 @@ Snake Point é um posto remoto situado entre pequenas vilas e fazendas no sudest
 A economia local gira em torno de uma guilda que comercia escravos com os Fair Folk, recebendo em troca venenos potentes e substâncias exóticas procuradas por alquimistas e feiticeiros.
 
 Foi em Snake Point que o pai de [[Scylla]], Cahara da Gens Amilar de Lookshy, descobriu os [[The Kin|Kin]] e conheceu Seraphina, a mãe de Scylla. O lugar serviu como base para suas expedições em busca do mel das abelhas de Zarlath e da cidade perdida dos Anathema.
+
+## Eventos dos Interlúdios
+
+Snake Point tornou-se a base de operações principal de [[Ravi]] e do culto dos [[Filhos do Sol]]. A fazenda [[Recanto do Sol]], nos arredores da cidade, serviu como o primeiro templo do culto. A cidade era governada por um prefeito chamado Eldric Burton, politicamente pragmático.
+
+No ano 671, eclodiu o [[Tormento dos Iluminados]] — um incidente violento no qual um cultista chamado Teerã foi morto, a embaixada dos [[The Kin|Kin]] foi incendiada e o culto foi banido da cidade. Apesar disso, os [[Filhos do Sol]] mantiveram apoiadores secretos entre os fazendeiros e eventualmente reconquistaram alguma presença na cidade através dos festivais de Calibração.

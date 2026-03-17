@@ -26,3 +26,15 @@ Durante a Calibração, os PCs foram transportados para uma versão onírica do 
 Makarios completou seu ritual apesar da intervenção dos PCs, fazendo brilhar símbolos no rio. A fundadora da Vila do Ciclo Infinito, [[Tayná]], estava entre os que tentaram enfrentá-lo.
 
 Ver também: [[A volta de Makarios]]
+
+## Eventos dos Interlúdios
+
+### Esquema contra Ravi
+
+Makarios orquestrou um esquema elaborado contra [[Ravi]] através de [[Lilith]] — transformando uma devota fervorosa em serva demoníaca para seduzir e atormentar o messias. Da união entre Ravi e Lilith, Makarios criou um filho, [[Jebediah]], que está sendo criado como arma contra Ravi. Paciente e astuto, aguardou o momento exato para agir.
+
+### Conexão com Amaterasu
+
+Nos interlúdios de [[Amaterasu]], revelou-se que [[Lyra]] — a encarnação de Amaterasu na Primeira Era — tinha uma parceria com Makarios para explorar sonhos, e acabou se apaixonando por ele. Através dos sonhos, Lyra era capaz de explorar mundos paralelos, ver futuros prováveis e até trazer criações dos sonhos para a realidade.
+
+Makarios forneceu a Amaterasu um artefato que torna os sonhos lúcidos, o qual ela usa para explorar memórias da Primeira Era.

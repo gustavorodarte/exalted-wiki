@@ -1,3 +1,12 @@
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases:
+  - Interlúdio de Mufasa
+---
+
 1. Estação do Ar, 668: Em busca de maiores informações sobre o outro Lunar, Mufasa espiona a vila de Ubiraci. Ao mesmo tempo, sua tribo busca noticias com a Guilda sobre a vila que vai sediar o torneio de artes marciais (Tepehlahn) e não conseguem muita coisa, exceto de que houve uma grande troca de mercadorias recentemente.
     
 2. ### Mufasa _—_ 02/03/2024, 12:21

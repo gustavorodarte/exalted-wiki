@@ -1,3 +1,10 @@
+---
+tags:
+  - type/source
+  - source-format/narrative
+  - campaign/ascensao
+aliases: []
+---
 
 Teerã foi enviado pelos familiares para ser “curado”. Tinha pesadelos todos os dias, acordava gritando à noite e tinha desenvolvido várias fobias. Ainda tinha memórias parciais do que havia acontecido com ele. Como aquela criatura de cabelos brancos havia tocado no fundo da sua alma. Quando voltou pra casa era uma casca vazia. As coisas ao redor não tinham cor, a comida não tinha sabor, as flores não tinham cheiro. Não havia prazer em viver.
 
