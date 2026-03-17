@@ -13,7 +13,7 @@ Makarios é um demônio de grande poder que busca retomar influência sobre a re
 ## Atividades
 
 - Corrompeu [[Iabá]], um prodígio da [[Vila do Ciclo Infinito]], levando-o à loucura e a um motim
-- Transformou [[Scar Akuma|Scar]] em Akuma para servir seus interesses
+- Transformou [[Scar|Scar]] em Akuma para servir seus interesses
 - Organizou um ritual massivo durante a Calibração de 669, usando cultistas e demônios de primeiro círculo
 - Mantém um "mercado" em Malfeas onde negocia com mortais em sonhos, oferecendo artefatos e tentações
 

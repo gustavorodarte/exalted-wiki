@@ -15,7 +15,17 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "pt-BR",
     baseUrl: "gustavorodarte.github.io/exalted-wiki",
-    ignorePatterns: ["private", "templates", "Templates", ".obsidian", "Inbox", "CLAUDE.md", ".claude", "scripts", "_INDEX.md"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      "Templates",
+      ".obsidian",
+      "Inbox",
+      "CLAUDE.md",
+      ".claude",
+      "scripts",
+      "_INDEX.md",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

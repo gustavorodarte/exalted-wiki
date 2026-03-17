@@ -135,26 +135,26 @@ aliases: []
 
 ## World/Locations
 
-| Note | Aliases | Tags | Path |
-|------|---------|------|------|
-| [[Alanya]] | Reino de Alanya | `type/location`, `campaign/ascensao`, `source/prelude` | `World/Locations/Alanya.md` |
-| [[Caverna das Infinitas Luzes]] | — | — | `World/Locations/Vila do Ciclo Infinito/Caverna das Infinitas Luzes.md` |
-| [[Guardiões]] | — | — | `World/Locations/Vila do Ciclo Infinito/Guardiões.md` |
-| [[Interludio]] | — | — | `World/Locations/The Kin/Interludio.md` |
-| [[Malamet]] | Tribos de Malamet, Malamet | `type/location`, `campaign/ascensao`, `source/prelude` | `World/Locations/Malamet.md` |
-| [[MOC Locais]] | Índice de Locais | `type/moc` | `World/Locations/MOC Locais.md` |
-| [[O Grande Ritual de Sublimação das Águas]] | — | — | `World/Locations/Vila do Ciclo Infinito/O Grande Ritual de Sublimação das Águas.md` |
-| [[Rathess]] | — | `type/location`, `campaign/ascensao`, `era/first-age` | `World/Locations/Rathess.md` |
-| [[Recanto do Sol]] | — | `type/location`, `campaign/ascensao`, `source/interludio` | `World/Locations/Recanto do Sol.md` |
-| [[Ruínas de Zarlath]] | — | — | `World/Locations/Vila do Ciclo Infinito/Ruínas de Zarlath.md` |
-| [[Snake Point]] | — | `type/location`, `campaign/ascensao` | `World/Locations/Snake Point.md` |
-| [[Sperimin]] | — | `type/location`, `campaign/ascensao`, `source/prelude` | `World/Locations/Sperimin.md` |
-| [[Tepehlahn]] | — | `type/location`, `campaign/ascensao` | `World/Locations/Tepehlahn.md` |
-| [[The Kin]] | Kin, Tribo Kin | `type/location`, `type/faction`, `campaign/ascensao`, `source/prelude` | `World/Locations/The Kin/The Kin.md` |
-| [[Vila do Ciclo Infinito]] | Ciclo Infinito | `type/location`, `campaign/ascensao`, `source/prelude` | `World/Locations/Vila do Ciclo Infinito/Vila do Ciclo Infinito.md` |
-| [[Vinushka]] | — | `type/location`, `campaign/ascensao`, `source/prelude` | `World/Locations/Vinushka.md` |
-| [[Vision of Light]] | Ratachul | `type/location`, `campaign/ascensao`, `source/prelude` | `World/Locations/Vision of Light.md` |
-| [[Yamato]] | Reino de Yamato | `type/location`, `campaign/ascensao`, `source/prelude` | `World/Locations/Yamato/Yamato.md` |
+| Note                                        | Aliases                    | Tags                                                                   | Path                                                                                |
+| ------------------------------------------- | -------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [[Alanya]]                                  | Reino de Alanya            | `type/location`, `campaign/ascensao`, `source/prelude`                 | `World/Locations/Alanya.md`                                                         |
+| [[Caverna das Infinitas Luzes]]             | —                          | —                                                                      | `World/Locations/Vila do Ciclo Infinito/Caverna das Infinitas Luzes.md`             |
+| [[Guardiões]]                               | —                          | —                                                                      | `World/Locations/Vila do Ciclo Infinito/Guardiões.md`                               |
+| [[Interludio]]                              | —                          | —                                                                      | `World/Locations/The Kin/Interludio.md`                                             |
+| [[Malamet]]                                 | Tribos de Malamet, Malamet | `type/location`, `campaign/ascensao`, `source/prelude`                 | `World/Locations/Malamet.md`                                                        |
+| [[MOC Locais]]                              | Índice de Locais           | `type/moc`                                                             | `World/Locations/MOC Locais.md`                                                     |
+| [[O Grande Ritual de Sublimação das Águas]] | —                          | —                                                                      | `World/Locations/Vila do Ciclo Infinito/O Grande Ritual de Sublimação das Águas.md` |
+| [[Rathess]]                                 | —                          | `type/location`, `campaign/ascensao`, `era/first-age`                  | `World/Locations/Rathess.md`                                                        |
+| [[Recanto do Sol]]                          | —                          | `type/location`, `campaign/ascensao`, `source/interludio`              | `World/Locations/Recanto do Sol.md`                                                 |
+| [[Ruínas de Zarlath]]                       | —                          | —                                                                      | `World/Locations/Vila do Ciclo Infinito/Ruínas de Zarlath.md`                       |
+| [[Snake Point]]                             | —                          | `type/location`, `campaign/ascensao`                                   | `World/Locations/Snake Point.md`                                                    |
+| [[Sperimin]]                                | —                          | `type/location`, `campaign/ascensao`, `source/prelude`                 | `World/Locations/Sperimin.md`                                                       |
+| [[Tepehlahn]]                               | —                          | `type/location`, `campaign/ascensao`                                   | `World/Locations/Tepehlahn.md`                                                      |
+| [[The Kin]]                                 | Kin, Tribo Kin             | `type/location`, `type/faction`, `campaign/ascensao`, `source/prelude` | `World/Locations/The Kin/The Kin.md`                                                |
+| [[Vila do Ciclo Infinito]]                  | Ciclo Infinito             | `type/location`, `campaign/ascensao`, `source/prelude`                 | `World/Locations/Vila do Ciclo Infinito/Vila do Ciclo Infinito.md`                  |
+| [[Vinushka]]                                | —                          | `type/location`, `campaign/ascensao`, `source/prelude`                 | `World/Locations/Vinushka.md`                                                       |
+| [[Vision of Light]]                         | Ratachul                   | `type/location`, `campaign/ascensao`, `source/prelude`                 | `World/Locations/Vision of Light.md`                                                |
+| [[Yamato]]                                  | Reino de Yamato            | `type/location`, `campaign/ascensao`, `source/prelude`                 | `World/Locations/Yamato/Yamato.md`                                                  |
 
 ## World/MOC Mundo.md
 
@@ -224,7 +224,7 @@ aliases: []
 | [[Raksi]] | Rainha de Sperimin | `type/person`, `campaign/ascensao`, `source/prelude` | `World/People/Raksi.md` |
 | [[Raoni Sólido Como a Água]] | Raoni, Sólido Como a Água | `type/person`, `campaign/ascensao`, `source/prelude` | `World/People/Raoni Sólido Como a Água.md` |
 | [[Scar]] | — | `type/person`, `campaign/ascensao` | `World/People/Scar.md` |
-| [[Scar Akuma]] | — | `type/person`, `campaign/ascensao` | `World/People/Scar Akuma.md` |
+| [[Scar]] | — | `type/person`, `campaign/ascensao` | `World/People/Scar Akuma.md` |
 | [[Scylla]] | Scylla Amilar | `type/person`, `campaign/ascensao`, `source/prelude` | `World/People/Scylla.md` |
 | [[Sesus Rafara]] | Sesus | `type/person`, `campaign/ascensao`, `source/prelude` | `World/People/Sesus Rafara.md` |
 | [[Shakti]] | Leoa Sagrada | `type/creature`, `campaign/ascensao`, `source/interludio` | `World/People/Shakti.md` |

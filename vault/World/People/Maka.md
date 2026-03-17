@@ -15,7 +15,7 @@ Maka já patrulhava a região há muito tempo, ajudando a [[Vila do Ciclo Infini
 
 ## Habilidades
 
-Maka é uma curandeira excepcional, capaz de diagnosticar e tratar ferimentos graves usando conhecimento de chakras e fluxos de essência. Realizou um ritual complexo para purificar [[Mufasa]] da corrupção implantada por [[Scar Akuma]], desbloqueando seus chakras com uma sequência de golpes precisos.
+Maka é uma curandeira excepcional, capaz de diagnosticar e tratar ferimentos graves usando conhecimento de chakras e fluxos de essência. Realizou um ritual complexo para purificar [[Mufasa]] da corrupção implantada por [[Scar]], desbloqueando seus chakras com uma sequência de golpes precisos.
 
 ## Relações
 
