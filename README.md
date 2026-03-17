@@ -10,38 +10,33 @@ Acesse em: **https://gustavorodarte.github.io/exalted-wiki/**
 - **Quartz 4** — gerador de site estático que renderiza o vault do Obsidian (grafo, backlinks, busca)
 - **GitHub Pages** — hospedagem gratuita, deploy automático via GitHub Actions
 
-## Estrutura do conteúdo
+## Estrutura
 
 ```
-content/
-├── World/
-│   ├── People/        ← NPCs, facções, deuses, criaturas
-│   ├── Locations/     ← Vilas, geografia, mapas
-│   ├── History/       ← Textos fonte (cartas, narrativas, capítulos)
-│   └── Items/         ← Artefatos
-├── Campaigns/
-│   ├── Era da Ascensão/Characters/   ← PCs, prelúdios, interlúdios
-│   └── Sessions/                     ← Notas de sessão
-└── Attachments/       ← Imagens (portraits, mapas, sessões)
+exalted-wiki/
+├── vault/                ← Obsidian abre esta pasta como vault
+│   ├── .obsidian/        ← configurações e plugins do Obsidian
+│   ├── World/
+│   │   ├── People/       ← NPCs, facções, deuses, criaturas
+│   │   ├── Locations/    ← Vilas, geografia, mapas
+│   │   ├── History/      ← Textos fonte (cartas, narrativas, capítulos)
+│   │   └── Items/        ← Artefatos
+│   ├── Campaigns/        ← PCs, prelúdios, interlúdios, sessões
+│   └── Attachments/      ← Imagens (portraits, mapas, sessões)
+├── quartz/               ← Engine do Quartz
+├── quartz.config.ts      ← Configuração do site
+└── .github/workflows/    ← Deploy automático
 ```
 
 ## Workflow
 
 1. Escreva lore no Obsidian (interlúdios, diários, cartas)
-2. Sincronize para o Quartz: `./sync-vault.sh`
-3. Commit e push — o deploy é automático
+2. O plugin Obsidian Git faz commit e push automaticamente
+3. GitHub Actions builda o Quartz e deploya no GitHub Pages
 
 ## Desenvolvimento local
 
 ```bash
 npm i
-npx quartz build --serve   # preview em localhost:8080
-```
-
-## Sync do vault
-
-O script `sync-vault.sh` copia o conteúdo do vault Obsidian para `content/`, excluindo arquivos internos (.obsidian, Inbox, Templates).
-
-```bash
-./sync-vault.sh
+npx quartz build -d vault --serve   # preview em localhost:8080
 ```

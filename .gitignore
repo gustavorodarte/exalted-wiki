@@ -1,11 +1,11 @@
 .DS_Store
-.gitignore
 node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
