@@ -7,7 +7,7 @@ aliases:
   - Niara
   - Som do Silêncio
 ---
-
+![[Pasted image 20260317231736.png|408]]
 # Niara Som do Silêncio
 
 Niara é uma Guardiã da [[Vila do Ciclo Infinito]] e a melhor amiga de [[Ubiraci]]. Recebeu seu título na mesma época que Ubiraci, aos 12 anos, um ano antes dos demais aspirantes.
