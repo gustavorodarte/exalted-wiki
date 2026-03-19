@@ -14,18 +14,18 @@ Created: 2024-04-08T18:12:00
 **Silver Path Reputation:**  2
 **Description:** 
 **Motivation**: Reunir todas as tribos em uma sociedade mais harmônica que a sociedade de Yamato original.
-## Intimacies (10):
- - **Amizade: **com as Pessoas do Ciclo Infinito
+# Intimacies (10):
+ - **Amizade:** com as Pessoas do Ciclo Infinito
  - **Apetência:** Encontrar o local onde vivem as abelhas de Zarlath
  - **Apetência:** Espíritos
  - **Apetência:** Desenvolver a Ekobé
  - **Apetência:** Integração com a natureza
  - **Aversão:** Violência Desnecessária
  - **Proteção:** com a Criação
- - **Proteção:** om as Vilas do Ciclo Infinito
+ - **Proteção:** com as Vilas do Ciclo Infinito
  - **Proteção:** com seus companheiros
  - **Respeito:** com a Diversidade Cultural (desde que não seja nociva para criação)
-## Limit: 
+# Limit: 
  - [x] 1
  - [x] 2
  - [x] 3
@@ -37,8 +37,8 @@ Created: 2024-04-08T18:12:00
  - [ ] 9
  - [ ] 10
 
-## Statistics
-### Attributes
+# Statistics
+## Attributes
 | Physical  |     | Spec. |
 | --------- | --- | ----- |
 | Strength  | 2   |       |
@@ -56,7 +56,7 @@ Created: 2024-04-08T18:12:00
 | Perception   | 4   |       |
 | Intelligence | 3   |       |
 | Wits         | 2   |       |
-### Abilities
+## Abilities
 
 |              |     | Specialties       |
 | ------------ | --- | ----------------- |
@@ -105,171 +105,36 @@ Created: 2024-04-08T18:12:00
 |             |     |             |
 |             |     |             |
 |             |     |             |
+## Willpower and Virtues
+| Name       | Level |
+| ---------- | ----- |
+| Valor      | 2     |
+| Compassion | 4     |
+| Temperance | 3     |
+| Conviction | 2     |
+| Willpower  | 6     |
+## Languages
+ - Forest Tongue
+ - Riverspeak
+ - Old Realm
 
- 
-> > [!note]+ ### Languages
-> > - Forest Tongue
-> > - Riverspeak
-> > - Old Realm
-> 
-> > [!note]+ ### Essence
-> > Essence: 3
-> > 
-> > **Pessoal Motes: 15**
-> > 
-> > **Peripheral Motes: 36**
-> > 
-> > **Committed: 14**
-> > 
-> > | Item/Charm | Type | Amount |
-> > | --- | --- | --- |
-> > 
-> > **Actual Pessoal Motes: 5**
-> > 
-> > **Actual Peripheral Motes: 5**
-> > 
-> > WP: 2
-> > 
-> > > [!note]+ Essence Calculation
-> > > > [!note] 🌑
-> > > > 
-> > > > **Personal Essence** ([Essence x 3] + Willpower), 
-> > > > 
-> > > > **Peripheral Essence** ([Essence x 7] + Willpower + [the sum of character’s Virtues]
-> > 
-> > > [!note]+ Anima Banner Levels
-> > > > [!note] ☀️
-> > > > 1 – 3 motes: Weak caste mark
-> > > Perception + Awareness to notice
-> > > 4 – 7 motes: Strong caste mark
-> > > Stealth at -2e difficulty
-> > > 8 – 10 motes: Mild aura
-> > > Stealth impossible
-> > > 11 – 15 motes: Bonfire aura
-> > > Anima power auto-activation
-> > > 16+: Iconic aura
-> > > Fades when no peripherally essence is used
-> > > 
-> > > | **Peripheral Motes Spent** | **Visual Effect** | **Mechanical effect** |
-> > > | --- | --- | --- |
-> > > | 1-3 | Weak cast mark | Perception + Awareness to notice |
-> > > | 4-7 | Strong cast mark | Stealth at -2e difficulty |
-> > > | 8-10 | Mild aura | Stealth Impossible |
-> > > | 11-15 | Bonfire aura | Anima power auto-activation |
-> > > | 16+ | Iconic aura |   |
-> > > 
-> > 
-> > Essence Recover: 
-> > 
-> > Rest:
-> > 
-> > No rest:
-> > 
-> > 
-> > 
-> 
-> > [!note]+ ### Willpower and Virtues
-> > 
-> > > Valor: 2
-> > > Compassion: 4
-> > > 
-> > > Temperance: 3
-> > > 
-> > > Conviction: 2
-> > > 
-> > > **Willpower: 6**
-> > 
-> > ---
-> > 
-> > 
-> > Actual Willpower → 6/6 wp
-> > 
-> > Valor Channeling: 
-> > 
-> > Compassion Channeling:
-> > 
-> > Temperance Channeling:
-> > 
-> > Conviction Channeling: 
+## Essence
 
----
+| Permanent        | 4   |
+| ---------------- | --- |
+| Personal Motes   | 16  |
+| Peripheral Motes | 44  |
+| Motes Comitted   | 10  |
 
-> [!note]+ ## Combat
-> > [!note]+ ## Physical Combat
-> > <!-- Column 1 -->
-> > **Attacks**:
-> > 
-> > | Attack | Spd | Acc | Roll | Dmg | Def | Rate | Rng | Tags |
-> > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> > | Hook Daiklave - Normal | 4 | +2 | #12d10x7 | 6L/2 | +3 | 3 | - | D, M, O,R |
-> > | Hook Daiklave - Disarm | 4 | +4 | #16d10x7 | - | +3 | 3 | - | D, M, O,R |
-> > | Punch | 5 | +1 | #10d10x7 | 2B | +2 | 3 | - |   |
-> > | Kick | 5 | +0 | #9d10x7 | 5B | -2 | 2 | - |   |
-> > | Heaven Thunder Leaves | 5 | +2 | #11d10x7 | 3L | +2 | 3 | - | D, M, O, R |
-> > | Glacial Excelent Ironwood War Fan | 4 | +3 | #12d10x7 | 4L(+2L Cold) | +3 | 3 | - | M |
-> > | Warform - Hook Daiklave - Normal | 4 | +2 | #14d10x7 | 6L/2 | +3 | 3 | - | D, M, O,R |
-> > | Warform - Hook Daiklave - Disarm | 4 | +4 | #18d10x7 | - | +3 | 3 | - | D, M, O,R |
-> > | Warform - Beak | 5 | +1 | #12d10x7 | 4L | +2 | 3 | - |   |
-> > | Warform - Claws | 5 | +0 | #11d10x7 | 4L | -2 | 2 | - |   |
-> > | Warform - Heaven Thunder Leaves | 5 | +2 | #13d10x7 | 3L | +2 | 3 | - | D, M, O, R |
-> > | Warform - Glacial Excelent Ironwood War Fan | 4 | +3 | #14d10x7 | 4L(+2L Cold) | +3 | 3 | - | M |
-> > |   |   |   |   |   |   |   |   |   |
-> > 
-> > **Soak**: Natural 3B/3L - Warform 6B(+6)/6L(+3)
-> > 
-> > | Form/Configuration | Bashing | Lethal | Agravated |
-> > | --- | --- | --- | --- |
-> > | Natural | 3 | 5 | - |
-> > | Warform | 6 | 6 | - |
-> > |   |   |   |   |
-> > 
-> > **DDV**: Natural 4 / Warform 5
-> > 
-> > **PDV:** Hook Daiklave - Natural 7 / Warform 8
-> > 
-> > **PDV:** War Fan - Natural 6 / Warform 7
-> > 
-> > 
-> > 
-> > <!-- Column 2 -->
-> > > [!note]+ **Health Levels **
-> > > - [x] -0 
-> > > - [x] -1 
-> > > - [x] -1
-> > > - [x] -1
-> > > - [x] -1
-> > > - [x] -2
-> > > - [ ] -2
-> > > - [ ] -4
-> > > - [ ] -4
-> > > - [ ] -4
-> > > - [ ] Incapacitated
-> > > 
-> > > 
-> > 
-> 
-> > [!note]+ ## Social Combat
-> > MDV: 6
-> > 
-> > > [!note] 🌑
-> > > (Wp(6) + Integrity(2) + Essence(3) + spe.(0)) / 2
-> > 
-> > ### Intimacies:
-> > 
-> > - **Amizade**: com a Niara
-> > - **Amizade**: com a Penas de Mil Cortes (Strix)
-> > - **Evitar**: Violência desnecessária
-> > - **Integração**: com a natureza
-> > - **Proteção**: com a Criação
-> > - **Proteção**: com a Vila do Ciclo Infinito
-> > - **Proteção**: com seus companheiros
-> > - **Aversão**: ser corrompido
-> 
-> ## Army Units
+| **Peripheral Motes Spent** | **Visual Effect** | **Mechanical effect**            |
+| -------------------------- | ----------------- | -------------------------------- |
+| 1-3                        | Weak cast mark    | Perception + Awareness to notice |
+| 4-7                        | Strong cast mark  | Stealth at -2e difficulty        |
+| 8-10                       | Mild aura         | Stealth Impossible               |
+| 11-15                      | Bonfire aura      | Anima power auto-activation      |
+| 16+                        | Iconic aura       |                                  |
 
----
-
-> [!note]+ ## Charms
+## Charms
 > > [!note]+ ## Lunar Knacks
 > 
 > > [!note]+ ## Lunar Charms
@@ -278,16 +143,13 @@ Created: 2024-04-08T18:12:00
 > > 
 > > 
 
----
-
----
 
 > [!note]+ ## Heart Blood
 
 ---
 
 > [!note]+ ## War Form
-> ### Mutations Points(Essence+6): 8
+> ### Mutations Points(Essence+6): 10
 > 
 > 
 > ### Gifts
