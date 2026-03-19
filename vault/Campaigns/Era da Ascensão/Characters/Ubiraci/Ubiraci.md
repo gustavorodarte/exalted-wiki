@@ -6,228 +6,107 @@ Created: 2024-04-08T18:12:00
 <!-- Column 1 -->
 ![[Ubiraci_Adulto_v2.jpg]]
 
-<!-- Column 2 -->
 **Name**: Ubiraci 
-
 **Titles:** Dançarino da Tempestade
-
 **Concept**: 
-
 **Type**: Lunar
-
 **Faction: **Widing Path
-
-**Silver Path Reputation:**  1
-
-**Description**: 
-
+**Silver Path Reputation:**  2
+**Description:** 
 **Motivation**: Reunir todas as tribos em uma sociedade mais harmônica que a sociedade de Yamato original.
+## Intimacies (10):
+ - **Amizade: **com as Pessoas do Ciclo Infinito
+ - **Apetência:** Encontrar o local onde vivem as abelhas de Zarlath
+ - **Apetência:** Espíritos
+ - **Apetência:** Desenvolver a Ekobé
+ - **Apetência:** Integração com a natureza
+ - **Aversão:** Violência Desnecessária
+ - **Proteção:** com a Criação
+ - **Proteção:** om as Vilas do Ciclo Infinito
+ - **Proteção:** com seus companheiros
+ - **Respeito:** com a Diversidade Cultural (desde que não seja nociva para criação)
+## Limit: 
+ - [x] 1
+ - [x] 2
+ - [x] 3
+ - [x] 4
+ - [x] 5
+ - [x] 6
+ - [x] 7
+ - [ ] 8
+ - [ ] 9
+ - [ ] 10
 
-<!-- Column 3 -->
-> [!note]+ ### Intimacies (10):
-> - **Amizade: **com as Pessoas do Ciclo Infinito
-> - **Apetência:** Encontrar o local onde vivem as abelhas de Zarlath
-> - **Apetência:** Espíritos
-> - **Apetência:** Desenvolver a Ekobé
-> - **Apetência:** Integração com a natureza
-> - **Aversão:** Violência Desnecessária
-> - **Proteção: **com a Criação
-> - **Proteção:** om as Vilas do Ciclo Infinito
-> - **Proteção: **com seus companheiros
-> - **Respeito: **com a Diversidade Cultural (desde que não seja nociva para criação)
+## Statistics
+### Attributes
+| Physical  |     | Spec. |
+| --------- | --- | ----- |
+| Strength  | 2   |       |
+| Desterity | 4   |       |
+| Stamina   | 3   |       |
 
-> [!note]+ ### Limit: 
-> - [x] 1
-> - [x] 2
-> - [x] 3
-> - [x] 4
-> - [x] 5
-> - [x] 6
-> - [x] 7
-> - [ ] 8
-> - [ ] 9
-> - [ ] 10
+| Social       |     | Spec. |
+| ------------ | --- | ----- |
+| Charisma     | 5   |       |
+| Manipulation | 4   |       |
+| Appearance   | 5   |       |
 
-> [!note]+ ## Statistics
-> <!-- Column 1 -->
-> **Strength** [2]
-> 
-> **Dexterity** [4]
-> 
-> **Stamina** [3]
-> 
-> <!-- Column 2 -->
-> **Charisma** [5]
-> 
-> **Manipulation** [4]
-> 
-> **Appearance** [5]
-> 
-> <!-- Column 3 -->
-> **Perception** [4]
-> 
-> **Intelligence** [3]
-> 
-> **Wits** [2]
-> 
-> <!-- Column 1 -->
-> > [!note]+ ### _____________
-> > **Archery **[1]
-> > 
-> > <u>**Martial Arts**</u> [5] 
-> > *Spec: Hook Daiklave 1*
-> > 
-> > **Melee** [1]
-> > 
-> > **Thrown** [0]
-> > 
-> > **War** [2]
-> 
-> <!-- Column 2 -->
-> > [!note]+ ### _____________
-> > **Athletics** [2]
-> > 
-> > **Awareness** [2]
-> > 
-> > **Dodge** [0]
-> > 
-> > **Larceny** [0]
-> > 
-> > **Stealth** [1]
-> 
-> <!-- Column 3 -->
-> > [!note]+ ### _____________
-> > **Integrity** [2]
-> > 
-> > **Performance** [5]  
-> > *Spec: Storytelling 1*
-> > 
-> > **Presence** [4]
-> > 
-> > **Resistance** [2]
-> > 
-> > <u>**Survival**</u> [4]
-> 
-> <!-- Column 4 -->
-> > [!note]+ ### _____________
-> > **Bureaucracy** [2] 
-> > *Spec: The Guild 2*
-> > 
-> > **Linguistics** [0]
-> > 
-> > **Ride** [0]
-> > 
-> > **Sail** [0]
-> > 
-> > **Socialize** [2]
-> 
-> 
-> <!-- Column 5 -->
-> > [!note]+ ### _____________
-> > <u>**Craft Wood**</u>** **[4]
-> > 
-> > **Investigation** [2]
-> > 
-> > **Lore **[3]
-> > 
-> > **Medicine **[0]
-> > 
-> > **Occult **[3] 
-> > *Spec: Demons 1*
-> 
-> 
-> > [!note]+ ### Attributes
-> > <!-- Column 1 -->
-> > | Physical |   | Spec. |
-> > | --- | --- | --- |
-> > | Strength | 2 |   |
-> > | Desterity | 4 |   |
-> > | Stamina | 3 |   |
-> > 
-> > <!-- Column 2 -->
-> > | Social |   | Spec. |
-> > | --- | --- | --- |
-> > | Charisma | 5 | Dealing with Spirits 3 |
-> > | Manipulation | 4 |   |
-> > | Appearance | 5 |   |
-> > 
-> > <!-- Column 3 -->
-> > | Mental |   | Spec. |
-> > | --- | --- | --- |
-> > | Perception | 4 |   |
-> > | Intelligence | 3 |   |
-> > | Wits | 2 |   |
-> > 
-> > <!-- Column 4 -->
-> > 
-> > 
-> > <!-- Column 5 -->
-> > 
-> 
-> > [!note]+ ### Abilities
-> > <!-- Column 1 -->
-> > |   |   | Specialties |
-> > | --- | --- | --- |
-> > | Archery | 1 |   |
-> > | Martial Arts | 5 | *Hook Daiklave 1* |
-> > | Melee | 1 |   |
-> > | Thrown | 0 |   |
-> > | War | 2 |   |
-> > 
-> > |   |   | Specialties |
-> > | --- | --- | --- |
-> > | Athetics | 2 |   |
-> > | Awareness | 2 |   |
-> > | Dodge | 0 |   |
-> > | Larceny | 0 |   |
-> > | Stealth | 1 |   |
-> > 
-> > <!-- Column 2 -->
-> > |   |   | Specialties |
-> > | --- | --- | --- |
-> > | Integrity | 2 |   |
-> > | Performance | 5 | Storytelling 1 |
-> > | Presence | 4 |   |
-> > | Resistance | 2 |   |
-> > | Survival | 4 |   |
-> > 
-> > |   |   | Specialties |
-> > | --- | --- | --- |
-> > | Bureaucracy | 2 | *The Guild 1* |
-> > | Linguistics | 0 |   |
-> > | Ride | 0 |   |
-> > | Sail | 0 |   |
-> > | Socialize | 3 |   |
-> > 
-> > <!-- Column 3 -->
-> > |   |   | Specialties |
-> > | --- | --- | --- |
-> > | Craft: Wood | 4 |   |
-> > | Investigation | 2 |   |
-> > | Lore | 3 |   |
-> > | Medicine | 0 |   |
-> > | Occult | 3 | *Demons 1* |
-> > 
-> > | Add. Crafts |   | Specialties |
-> > | --- | --- | --- |
-> > |   |   |   |
-> > |   |   |   |
-> > |   |   |   |
-> > |   |   |   |
-> > |   |   |   |
-> > 
-> > <!-- Column 4 -->
-> > 
-> > 
-> > <!-- Column 5 -->
-> > 
-> > 
-> > <!-- Column 1 -->
-> > 
-> > 
-> > <!-- Column 2 -->
-> > 
-> 
+| Mental       |     | Spec. |
+| ------------ | --- | ----- |
+| Perception   | 4   |       |
+| Intelligence | 3   |       |
+| Wits         | 2   |       |
+### Abilities
+
+|              |     | Specialties       |
+| ------------ | --- | ----------------- |
+| Archery      | 1   |                   |
+| Martial Arts | 5   | *Hook Daiklave 1* |
+| Melee        | 1   |                   |
+| Thrown       | 0   |                   |
+| War          | 2   |                   |
+ 
+|           |     | Specialties |
+| --------- | --- | ----------- |
+| Athetics  | 2   |             |
+| Awareness | 2   |             |
+| Dodge     | 0   |             |
+| Larceny   | 0   |             |
+| Stealth   | 1   |             |
+
+|             |     | Specialties    |
+| ----------- | --- | -------------- |
+| Integrity   | 2   |                |
+| Performance | 5   | Storytelling 1 |
+| Presence    | 4   |                |
+| Resistance  | 2   |                |
+| Survival    | 4   |                |
+
+|             |     | Specialties   |
+| ----------- | --- | ------------- |
+| Bureaucracy | 2   | *The Guild 1* |
+| Linguistics | 0   |               |
+| Ride        | 0   |               |
+| Sail        | 0   |               |
+| Socialize   | 3   |               |
+
+|               |     | Specialties |
+| ------------- | --- | ----------- |
+| Craft: Wood   | 4   |             |
+| Investigation | 2   |             |
+| Lore          | 3   |             |
+| Medicine      | 0   |             |
+| Occult        | 3   | *Demons 1*  |
+
+| Add. Crafts |     | Specialties |
+| ----------- | --- | ----------- |
+|             |     |             |
+|             |     |             |
+|             |     |             |
+|             |     |             |
+|             |     |             |
+
+ 
 > > [!note]+ ### Languages
 > > - Forest Tongue
 > > - Riverspeak
