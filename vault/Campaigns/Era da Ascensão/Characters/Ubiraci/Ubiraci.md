@@ -6,13 +6,20 @@ Created: 2024-04-08T18:12:00
 <!-- Column 1 -->
 ![[Ubiraci_Adulto_v2.jpg]]
 
-**Name**: Ubiraci 
+**Name**: Ubiraci
+
 **Titles:** Dançarino da Tempestade
-**Concept**: 
+
+**Concept**: Artista
+
 **Type**: Lunar
+
 **Faction: **Widing Path
+
 **Silver Path Reputation:**  2
+
 **Description:** 
+
 **Motivation**: Reunir todas as tribos em uma sociedade mais harmônica que a sociedade de Yamato original.
 # Intimacies (10):
  - **Amizade:** com as Pessoas do Ciclo Infinito
