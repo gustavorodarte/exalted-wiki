@@ -3,24 +3,10 @@ cover: "[[Ubiraci.jpeg]]"
 Tags: []
 Created: 2024-04-08T18:12:00
 ---
-<!-- Column 1 -->
-![[Ubiraci_Adulto_v2.jpg]]
 
-**Name**: Ubiraci
-
-**Titles:** Dançarino da Tempestade
-
-**Concept**: Artista
-
-**Type**: Lunar
-
-**Faction: **Widing Path
-
-**Silver Path Reputation:**  2
-
-**Description:** 
-
-**Motivation**: Reunir todas as tribos em uma sociedade mais harmônica que a sociedade de Yamato original.
+|                                 |                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Ubiraci_Adulto_v2.jpg\|294]] | **Name**: Ubiraci<br><br>**Titles:** Dançarino da Tempestade<br><br>**Concept**: Artista<br><br>**Type**: Lunar<br><br>**Faction: **Widing Path<br><br>**Silver Path Reputation:**  2<br><br>**Description:** <br><br>**Motivation**: Reunir todas as tribos em uma sociedade mais harmônica que a sociedade de Yamato original. |
 # Intimacies (10):
  - **Amizade:** com as Pessoas do Ciclo Infinito
  - **Apetência:** Encontrar o local onde vivem as abelhas de Zarlath
